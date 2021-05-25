@@ -1,0 +1,88 @@
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+  }
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+  }
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+  }
+a:active {
+  color: rgb(255, 174, 0);
+  background-color: transparent;
+  text-decoration: underline;
+  }
+
+.homeTitle {
+  padding-bottom: 35px;
+  color: white;
+  height: 100px;
+  font-size: 100px;
+  opacity: 0.8;
+  display: flex;
+  justify-content: center;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-text {
+  font-size: 20px;
+}
+
+.carousel-item {
+  height: 32rem;
+  color: rgb(209, 123, 123);
+  position: relative;
+  background-position: center;
+  background-size: cover;
+}
+
+.dlbtn {
+  color:mistyrose;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+}
+.lista {
+  color: rgb(255, 255, 255);
+  text-shadow: 2px 2px #140f0f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lista2{
+  color: rgb(240, 239, 207);
+  background-color: rgb(182, 56, 42);
+  text-shadow: 2px #140f0f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lista3 {
+  color: rgb(255, 255, 255);
+  font-size: 2em;
+  text-shadow: 2px 2px #503c3c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.listo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
